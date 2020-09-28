@@ -1,1 +1,1 @@
-Initialisationdu projet
+Initialisation du projet
